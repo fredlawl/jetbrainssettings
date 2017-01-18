@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9dad11c6-1f3d-48f6-8f60-d03dafd80676" name="FredLawl Site" url="http://fredlawl.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e13a0f35-1a91-47c6-83f6-6a4fdbc3ea72" name="Positronic Account API" url="http://account-api.positronic.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

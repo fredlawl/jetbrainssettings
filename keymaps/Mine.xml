@@ -1,0 +1,53 @@
+<keymap version="1" name="Mine" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
+</keymap>

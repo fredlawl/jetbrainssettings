@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'wordpress'" />
-    <option name="defaultScopeName" value="Project 'wordpress'" />
-    <option name="SEARCH_SCOPE" value="Project 'wordpress'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>

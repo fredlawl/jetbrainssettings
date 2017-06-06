@@ -10,6 +10,9 @@
       <webServer id="85958436-ca4f-42fa-a9af-dd8ebe1b1c24" name="CommunityKC" url="http://communitykc.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d0a53e74-e4dc-4f4f-b685-e070f650aac8" name="Positronic Account Manager" url="http://myaccount.positronic.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

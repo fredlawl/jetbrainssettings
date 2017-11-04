@@ -16,6 +16,9 @@
       <webServer id="e266fcf0-9764-493d-b6ec-e44f6434548f" name="Claim Processing System" url="http://claim-processing-system.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="d591c88f-e78c-4886-b51b-ce56d953883f" name="mylinuxwiki" url="http://mylinuxwiki.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>

@@ -1,15 +1,16 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <PhpCSConfiguration />
-    </phpcs_settings>
+    <phpcs_settings_migrated />
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/local/Cellar/php55/5.5.38_11/bin/php" id="41b94214-6fa4-4729-8e30-b89fd2489060" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/opt/php56/bin/php" id="5bef0542-131e-4724-81f5-ac94c1309ad2" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php70/7.0.19_11/bin/php" id="70b3d630-1560-4647-a7b6-4f5f356b5ab8" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/Cellar/php71/7.1.5_17/bin/php" id="0eaf3ca1-f5cb-486d-858a-0c78929cf50e" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
+      <interpreter id="41b94214-6fa4-4729-8e30-b89fd2489060" name="PHP 5.5" home="/usr/local/Cellar/php55/5.5.38_11/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="5bef0542-131e-4724-81f5-ac94c1309ad2" name="PHP 5.6" home="/usr/local/opt/php56/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="70b3d630-1560-4647-a7b6-4f5f356b5ab8" name="PHP 7" home="/usr/local/Cellar/php70/7.0.19_11/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="0eaf3ca1-f5cb-486d-858a-0c78929cf50e" name="PHP 7.1" home="/usr/local/Cellar/php71/7.1.5_17/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
